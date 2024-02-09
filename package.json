@@ -1,0 +1,15 @@
+{
+  "name": "ca650-1st-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Mayur Sonawale <mayursonawale2601@gmail.com>",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
